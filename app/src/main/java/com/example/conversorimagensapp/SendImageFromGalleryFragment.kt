@@ -32,6 +32,6 @@ class SendImageFromGalleryFragment : Fragment() {
     }
     
     private fun setupView() {
-        TODO("Not yet implemented")
+//        TODO("Not yet implemented")
     }
 }
