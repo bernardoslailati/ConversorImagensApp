@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">ConversorImagensApp</string>
+    <string name="app_name">Conversor de Imagens App</string>
+    <string name="pick_a_photo_from_gallery">Escolha uma foto de sua galeria:</string>
+    <string name="photo_convert_type">Qual tipo deseja converter a foto?</string>
+    <string name="search_gallery_photo">Buscar foto na galeria</string>
+    <string name="loaded_photo_from_gallery_content_description">Foto carregada da galeria</string>
+    <string name="loaded_photo_success">Foto carregada com sucesso!</string>
+    <string name="loaded_photo_fail">Nenhuma foto carregada.</string>
+    <string name="send_photo_to_server">Enviar Foto Convertida</string>
 </resources>
