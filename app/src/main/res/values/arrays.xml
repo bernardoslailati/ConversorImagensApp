@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="photo_convert_types">
+        <item>Selecione o tipo de conversão…</item>
+        <item>JPG</item>
+        <item>JPEG</item>
+        <item>PNG</item>
+        <item>BITMAP</item>
+    </string-array>
 </resources>
