@@ -3,7 +3,6 @@
     <string-array name="photo_convert_types">
         <item>Selecione o tipo de conversão…</item>
         <item>JPG</item>
-        <item>JPEG</item>
         <item>PNG</item>
     </string-array>
 </resources>
