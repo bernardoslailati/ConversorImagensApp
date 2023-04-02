@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".ui.activity.MainActivity">
 
     <TextView
         android:id="@+id/tvPickAPhotoFromGalleryTitle"
@@ -21,9 +21,10 @@
         android:id="@+id/cvPhotoFromGallery"
         android:layout_width="180dp"
         android:layout_height="180dp"
-        app:cardCornerRadius="180dp"
+        app:cardCornerRadius="8dp"
         android:layout_marginTop="36dp"
         app:cardElevation="8dp"
+        app:cardUseCompatPadding="true"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvPickAPhotoFromGalleryTitle">

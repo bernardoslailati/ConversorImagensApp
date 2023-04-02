@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/sendImageFromGalleryFragment"
-        android:name="com.example.conversorimagensapp.SendImageFromGalleryFragment"
+        android:name="com.example.conversorimagensapp.ui.fragment.SendImageFromGalleryFragment"
         android:label="SendImageFromGalleryFragment"
         tools:layout="@layout/fragment_send_image_from_gallery" />
 

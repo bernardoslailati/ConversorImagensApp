@@ -1,4 +1,4 @@
-package com.example.conversorimagensapp
+package com.example.conversorimagensapp.ui.fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater
