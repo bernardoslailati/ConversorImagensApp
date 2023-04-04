@@ -4,5 +4,6 @@
         <item>Selecione o tipo de conversão…</item>
         <item>JPG</item>
         <item>PNG</item>
+        <item>SVG</item>
     </string-array>
 </resources>
